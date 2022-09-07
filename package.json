@@ -1,0 +1,20 @@
+{
+  "name": "08compsci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.19.0",
+    "@babel/preset-env": "^7.19.0",
+    "@types/jest": "^29.0.0",
+    "ts-jest": "^28.0.8"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
